@@ -9,8 +9,8 @@ print("Rock..")
 print("paper..")
 print("Scissor..")
 
-player1 =str(input("player 1,make your move:"))
-player2 =str(input("player 2,make your move:"))
+player1 = str(input("player 1,make your move:"))
+player2 = str(input("player 2,make your move:"))
 
 if player1 == player2:
     print("it's a tie")
